@@ -1,6 +1,6 @@
 """
-Name: Lakshay
-Roll No: 2301010306
+Name: Manish Pandey
+Roll No: 2301010302
 Course: Image Processing & Computer Vision
 Unit: Mini Project
 Assignment Title: Object Representation and Feature Extraction for Traffic Images
